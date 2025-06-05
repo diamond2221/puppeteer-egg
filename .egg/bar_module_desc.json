@@ -1,0 +1,1 @@
+{"name": "bar","unitPath": "/Users/zhangyu/demo/puppeteer-egg/app/module/bar","clazzList": [{"name": "HomeController","filePath": "controller/home.ts"},{"name": "UserController","filePath": "controller/user.ts"}],"multiInstanceClazzList": [],"protos": []}
